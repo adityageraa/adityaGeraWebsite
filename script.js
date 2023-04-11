@@ -138,7 +138,7 @@ let toggle = () => {
 };
 
 //copying the email to clipboard
-const email = "contact@adityacreates.in";
+const email = "adityagera.04@gmail.com";
 
 let copyEmail = () => {
   navigator.clipboard.writeText(email);
